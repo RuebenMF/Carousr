@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Carousr</string>
-    <string name="btn_roll">Roll!</string>
-    <string name="btn_RollExplain">its the button the user clicks to roll the dice</string>
-    <string name="btn_InfoExplain">its the button the user clicks to get info on the developer and support the project</string>
-    <string name="txt_main_placeholder">Go on, have a drink! One more won\'t hurt…</string>
-    <string name="txt_thanks">Design and coding: Rueben\nSensei: Simon\nArtwork: James\nSounds: Alex\n\n<b>Thanks so much for downloading Carousr!</b>\n\nThis application was developed to give your tabletop games a little boost to their carousing events.\n\nIf you want to see more applications like this, or want to see this application improved, please rate and review it in the app store.\n\n<b>Keep this app ad-free, buy us a coffee :)</b></string>
-</resources>
